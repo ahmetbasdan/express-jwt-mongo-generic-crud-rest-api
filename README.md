@@ -1,6 +1,6 @@
 # express-jwt-mongo-generic-crud-rest-api
 
-An example RESTful API built on top of Express
+An example REST API built on top of Express
 
 ## Features
 
